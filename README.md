@@ -1,3 +1,3 @@
 # splash-page
 responsive splash frontend webapp
-animate-me.netlify.app
+link : animate-me.netlify.app
